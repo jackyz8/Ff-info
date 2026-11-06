@@ -104,8 +104,8 @@ REGION_ACCOUNTS = {
     ],
     "OTHARS_SVR": [
         {
-            "uid": os.getenv("OTHARS_UID_1", "7873585362"),
-            "password": os.getenv("OTHARS_PASS_1", "XEROX_MODS_hmZovffkRNx8"),
+            "uid": os.getenv("BD_UID_1", "8408116823"),
+            "password": os.getenv("BD_PASS_1", "M_03F03251E1C37C38"),
         },
         {
             "uid": os.getenv("OTHARS_UID_2", "7873590047"),
